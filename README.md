@@ -1,0 +1,2 @@
+# AssetManagementSystem
+Django based system
